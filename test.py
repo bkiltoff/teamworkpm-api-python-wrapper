@@ -2,8 +2,8 @@ import json
 from TeamworkPM.api import API
 from TeamworkPM.models import *
 
-api = API("YOUR_COMPANY_NAME", "YOUR_API_KEY")
-COMPANY_ID = 12345					# replace w/ your company ID
+api = API("snoisle", "grass856wool")
+COMPANY_ID = 27919					# replace w/ your company ID
 
 people = {}							# TeamworkPM User Ids
 people['User Name'] = 12345
